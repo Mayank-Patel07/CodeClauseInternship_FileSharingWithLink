@@ -24,18 +24,18 @@ export default function Cart() {
   // console.log(file);
   return (
     <>
-      <div class="main">
-        <div class="square">
+      <div className="main">
+        <div className="square">
           <img
           // src="/laika-notebooks-l24Db2ApdFM-unsplash.jpg"
           src="/caspar-camille-rubin-HUBNTCzE-R8-unsplash.jpg"
-            class="mask"
+            className="mask"
           />
-          <div class="h1">File Sharing App</div>
+          <div className="h1">File Sharing App</div>
           <p className="text-dark">Up load the file and share it</p>
 
           <div>
-            <button class="button" onClick={handleClick}>
+            <button className="button" onClick={handleClick}>
               Upload
             </button>
             <input

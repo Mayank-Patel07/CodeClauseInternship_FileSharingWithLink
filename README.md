@@ -8,10 +8,12 @@ Step 1 npm create vite@latest
 Step 2 cd my-project
 
 ( Only node modules and default installation for both of them samne commands. )
+
 npm install
+
 npm run dev
 
-# Node & Node Js 
+# Node & Express Js 
 # Installation
 Step 1 download node js software https://nodejs.org/en/download ( Required to install React + vite)
 

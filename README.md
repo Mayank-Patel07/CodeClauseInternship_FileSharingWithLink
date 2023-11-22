@@ -17,7 +17,7 @@ npm run dev
 # Installation
 Step 1 download node js software https://nodejs.org/en/download ( Required to install React + vite)
 
-Step 2 Given link is used to install and run node Js and Express JS file https://docs.npmjs.com/downloading-and-installing-node-js-and-npm 
+Step 2 Given link is used to install and run Node Js and Express JS file https://docs.npmjs.com/downloading-and-installing-node-js-and-npm 
 
 # MongoDB 
 # Installation

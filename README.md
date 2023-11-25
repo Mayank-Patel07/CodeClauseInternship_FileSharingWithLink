@@ -1,4 +1,4 @@
-# CodeClauseInternship_FileShearingWithLink
+# CodeClauseInternship_FileSharingWithLink
 This application is built with the MERN stack and is designed for sharing files via links that anyone can use to download the respective files. This project is part of Code Cause.
 
 # React + Vite 
